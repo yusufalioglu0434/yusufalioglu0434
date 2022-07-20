@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-yusufalioglu0434/yusufalioglu0434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yusufalioglu04/yusufalioglu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
